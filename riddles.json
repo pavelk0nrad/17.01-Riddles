@@ -1,0 +1,140 @@
+{
+  "riddles": [
+    {
+        "ID": 1,
+        "Title": "Puzzle Breaker",
+        "Riddle": "I turn confusion into clarity, one question at a time. Who am I?",
+        "Option 1": "riddle book",
+        "Option 2": "teacher",
+        "Option 3": "calculator",
+        "Answer": "teacher"
+    },
+    {
+        "ID": 2,
+        "Title": "Silence Keeper",
+        "Riddle": "In a place where silence rules, I reign supreme. Who am I?",
+        "Option 1": "librarian",
+        "Option 2": "study hall",
+        "Option 3": "auditorium",
+        "Answer": "librarian"
+    },
+    {
+        "ID": 3,
+        "Title": "Thought Provoker",
+        "Riddle": "I spark ideas with just a few words. Who am I?",
+        "Option 1": "debate topic",
+        "Option 2": "inspiring quote",
+        "Option 3": "philosopher",
+        "Answer": "inspiring quote"
+    },
+    {
+        "ID": 4,
+        "Title": "Memory Lane",
+        "Riddle": "I take you back with tales of old, where legends are told. Who am I?",
+        "Option 1": "history teacher",
+        "Option 2": "grandfather",
+        "Option 3": "storybook",
+        "Answer": "history teacher"
+    },
+    {
+        "ID": 5,
+        "Title": "Grade Giver",
+        "Riddle": "I determine fates with letters, not swords. Who am I?",
+        "Option 1": "English teacher",
+        "Option 2": "grader",
+        "Option 3": "exam",
+        "Answer": "grader"
+    },
+    {
+        "ID": 6,
+        "Title": "Idea Igniter",
+        "Riddle": "I start with a spark and end with a flame of knowledge. Who am I?",
+        "Option 1": "science experiment",
+        "Option 2": "brainstorm session",
+        "Option 3": "teacher",
+        "Answer": "brainstorm session"
+    },
+    {
+        "ID": 7,
+        "Title": "Number Ninja",
+        "Riddle": "I slice through problems with precision and speed. Who am I?",
+        "Option 1": "mathematician",
+        "Option 2": "calculator",
+        "Option 3": "math teacher",
+        "Answer": "math teacher"
+    },
+    {
+        "ID": 8,
+        "Title": "Secret Keeper",
+        "Riddle": "I hold your secrets, but not for long. Who am I?",
+        "Option 1": "diary",
+        "Option 2": "school counselor",
+        "Option 3": "locker",
+        "Answer": "school counselor"
+    },
+    {
+        "ID": 9,
+        "Title": "Guardian of Growth",
+        "Riddle": "I nurture young minds from seed to tree. Who am I?",
+        "Option 1": "parent",
+        "Option 2": "teacher",
+        "Option 3": "gardener",
+        "Answer": "teacher"
+    },
+    {
+        "ID": 10,
+        "Title": "Deadline Driver",
+        "Riddle": "I push you to finish before the bell rings. Who am I?",
+        "Option 1": "coach",
+        "Option 2": "alarm clock",
+        "Option 3": "assignment",
+        "Answer": "assignment"
+    },
+    {
+        "ID": 11,
+        "Title": "Creative Spark",
+        "Riddle": "I can make a masterpiece from just a spark. Who am I?",
+        "Option 1": "artist",
+        "Option 2": "teacher",
+        "Option 3": "light bulb",
+        "Answer": "artist"
+    },
+    {
+        "ID": 12,
+        "Title": "The Quiet Observer",
+        "Riddle": "I watch silently, ensuring rules are followed. Who am I?",
+        "Option 1": "security camera",
+        "Option 2": "hall monitor",
+        "Option 3": "principal",
+        "Answer": "hall monitor"
+    },
+    {
+        "ID": 13,
+        "Title": "The Voice of Reason",
+        "Riddle": "I calm the storm with a few wise words. Who am I?",
+        "Option 1": "counselor",
+        "Option 2": "peace negotiator",
+        "Option 3": "parent",
+        "Answer": "counselor"
+    },
+    {
+        "ID": 14,
+        "Title": "Vision Crafter",
+        "Riddle": "I help you see what could be, with maps and plans aplenty. Who am I?",
+        "Option 1": "architect",
+        "Option 2": "visionary",
+        "Option 3": "teacher",
+        "Answer": "teacher"
+    },
+    {
+        "ID": 15,
+        "Title": "Keeper of Time",
+        "Riddle": "I mark the moments, never late, helping you navigate. Who am I?",
+        "Option 1": "clock",
+        "Option 2": "schedule",
+        "Option 3": "planner",
+        "Answer": "clock"
+    }
+]
+
+}
