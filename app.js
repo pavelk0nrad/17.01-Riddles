@@ -4,6 +4,7 @@ const bodyParser = require('body-parser');
 const { getStoredRiddles } = require('./data/riddles');
 
 const app = express();
+const PORT = process.env.PORT || 3000; // Nastavíme port dle prostředí nebo 3000 jako výchozí
 
 app.use(bodyParser.json());
 
@@ -18,15 +19,19 @@ app.use((req, res, next) => {
 
 app.get('/riddles', async (req, res) => {
   const storedRiddles = await getStoredRiddles();
-  // await new Promise((resolve, reject) => setTimeout(() => resolve(), 1500));
   res.json({ riddles: storedRiddles });
 });
 
 app.get('/riddles/:id', async (req, res) => {
   const storedRiddles = await getStoredRiddles();
-  const riddle = storedRiddles.find((riddle) => riddle.id === req.params.id);
-  res.json({ riddle });
+  const riddle = storedRiddles.find((riddle) => riddle.ID === parseInt(req.params.id));
+  if (!riddle) {
+    res.status(404).json({ error: 'Riddle not found' });
+  } else {
+    res.json({ riddle });
+  }
 });
 
-
-app.listen(3000);
+app.listen(PORT, () => {
+  console.log(`Server is running on port ${PORT}`);
+});
