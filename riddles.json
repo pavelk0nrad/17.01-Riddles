@@ -1,7 +1,7 @@
 {
   "riddles": [
     {
-        "ID": 1,
+        "id": "1",
         "Title": "Puzzle Breaker",
         "Riddle": "I turn confusion into clarity, one question at a time. Who am I?",
         "Option 1": "riddle book",
@@ -10,7 +10,7 @@
         "Answer": "teacher"
     },
     {
-        "ID": 2,
+        "id": "2",
         "Title": "Silence Keeper",
         "Riddle": "In a place where silence rules, I reign supreme. Who am I?",
         "Option 1": "librarian",
@@ -19,7 +19,7 @@
         "Answer": "librarian"
     },
     {
-        "ID": 3,
+        "id": 3,
         "Title": "Thought Provoker",
         "Riddle": "I spark ideas with just a few words. Who am I?",
         "Option 1": "debate topic",
@@ -28,7 +28,7 @@
         "Answer": "inspiring quote"
     },
     {
-        "ID": 4,
+        "id": 4,
         "Title": "Memory Lane",
         "Riddle": "I take you back with tales of old, where legends are told. Who am I?",
         "Option 1": "history teacher",
@@ -37,7 +37,7 @@
         "Answer": "history teacher"
     },
     {
-        "ID": 5,
+        "id": 5,
         "Title": "Grade Giver",
         "Riddle": "I determine fates with letters, not swords. Who am I?",
         "Option 1": "English teacher",
@@ -46,7 +46,7 @@
         "Answer": "grader"
     },
     {
-        "ID": 6,
+        "id": 6,
         "Title": "Idea Igniter",
         "Riddle": "I start with a spark and end with a flame of knowledge. Who am I?",
         "Option 1": "science experiment",
@@ -55,7 +55,7 @@
         "Answer": "brainstorm session"
     },
     {
-        "ID": 7,
+        "id": 7,
         "Title": "Number Ninja",
         "Riddle": "I slice through problems with precision and speed. Who am I?",
         "Option 1": "mathematician",
@@ -64,7 +64,7 @@
         "Answer": "math teacher"
     },
     {
-        "ID": 8,
+        "id": 8,
         "Title": "Secret Keeper",
         "Riddle": "I hold your secrets, but not for long. Who am I?",
         "Option 1": "diary",
@@ -73,7 +73,7 @@
         "Answer": "school counselor"
     },
     {
-        "ID": 9,
+        "id": 9,
         "Title": "Guardian of Growth",
         "Riddle": "I nurture young minds from seed to tree. Who am I?",
         "Option 1": "parent",
@@ -82,7 +82,7 @@
         "Answer": "teacher"
     },
     {
-        "ID": 10,
+        "id": 10,
         "Title": "Deadline Driver",
         "Riddle": "I push you to finish before the bell rings. Who am I?",
         "Option 1": "coach",
@@ -91,7 +91,7 @@
         "Answer": "assignment"
     },
     {
-        "ID": 11,
+        "id": 11,
         "Title": "Creative Spark",
         "Riddle": "I can make a masterpiece from just a spark. Who am I?",
         "Option 1": "artist",
@@ -100,7 +100,7 @@
         "Answer": "artist"
     },
     {
-        "ID": 12,
+        "id": 12,
         "Title": "The Quiet Observer",
         "Riddle": "I watch silently, ensuring rules are followed. Who am I?",
         "Option 1": "security camera",
@@ -118,7 +118,7 @@
         "Answer": "counselor"
     },
     {
-        "ID": 14,
+        "id": 14,
         "Title": "Vision Crafter",
         "Riddle": "I help you see what could be, with maps and plans aplenty. Who am I?",
         "Option 1": "architect",
@@ -127,7 +127,7 @@
         "Answer": "teacher"
     },
     {
-        "ID": 15,
+        "id": 15,
         "Title": "Keeper of Time",
         "Riddle": "I mark the moments, never late, helping you navigate. Who am I?",
         "Option 1": "clock",
