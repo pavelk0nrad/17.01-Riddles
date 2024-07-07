@@ -134,7 +134,142 @@
         "Option 2": "schedule",
         "Option 3": "planner",
         "Answer": "clock"
-    }
+    },
+    {
+    "id": "16",
+    "Title": "The Silent Watcher",
+    "Riddle": "I capture your speed without a whisper or a deed. What am I?",
+    "Option 1": "a radar gun",
+    "Option 2": "a traffic camera",
+    "Option 3": "a shadow",
+    "Answer": "a traffic camera"
+  },
+  {
+    "id": "17",
+    "Title": "Guardian of the Night",
+    "Riddle": "Watching without eyes, I guard under starry skies. What am I?",
+    "Option 1": "a security camera",
+    "Option 2": "a night watchman",
+    "Option 3": "a streetlamp",
+    "Answer": "a security camera"
+  },
+  {
+    "id": "18",
+    "Title": "The Stoic Invader",
+    "Riddle": "Standing where I may not, I claim my spot without a trot. What am I?",
+    "Option 1": "a parked car",
+    "Option 2": "a bicycle",
+    "Option 3": "a trespasser",
+    "Answer": "a parked car"
+  },
+  {
+    "id": "19",
+    "Title": "The Silent Directive",
+    "Riddle": "I speak without words, my message always heard. What am I?",
+    "Option 1": "a stop sign",
+    "Option 2": "a traffic light",
+    "Option 3": "a road map",
+    "Answer": "a stop sign"
+  },
+  {
+    "id": "20",
+    "Title": "The Daytime Racer",
+    "Riddle": "Racing with time, I chime without a climb. What am I?",
+    "Option 1": "a clock",
+    "Option 2": "a sundial",
+    "Option 3": "a calendar",
+    "Answer": "a clock"
+  },
+  {
+    "id": "21",
+    "Title": "Law's Quiet Echo",
+    "Riddle": "My whisper carries weight, in silence, I state. What am I?",
+    "Option 1": "a secret code",
+    "Option 2": "a policeman's whistle",
+    "Option 3": "a gentle reminder",
+    "Answer": "a policeman's whistle"
+  },
+  {
+    "ID": "22",
+    "Title": "The Invisible Line",
+    "Riddle": "Seen by none, I keep order without a gun. What am I?",
+    "Option 1": "a law",
+    "Option 2": "an unspoken rule",
+    "Option 3": "a shadow",
+    "Answer": "a law"
+  },
+  {
+    "id": "23",
+    "Title": "Endless Chase",
+    "Riddle": "Without legs, I pursue, ensuring all adhere to what's true. What am I?",
+    "Option 1": "justice",
+    "Option 2": "a detective",
+    "Option 3": "a pursuit car",
+    "Answer": "justice"
+  },
+  {
+    "id": "24",
+    "Title": "Crossroads Keeper",
+    "Riddle": "I command without a voice, at intersections, I make my choice. What am I?",
+    "Option 1": "a traffic light",
+    "Option 2": "a crosswalk",
+    "Option 3": "a traffic cop",
+    "Answer": "a traffic light"
+  },
+  {
+    "ID": "25",
+    "Title": "Velocity's Silent Judge",
+    "Riddle": "I stand still, measuring thrills; in my sight, speedsters freeze. What am I?",
+    "Option 1": "a speed bump",
+    "Option 2": "a speed camera",
+    "Option 3": "an officer's gaze",
+    "Answer": "a speed camera"
+  },
+  {
+    "id": "26",
+    "Title": "Siren of the Silent Night",
+    "Riddle": "My song splits the quiet, a call to peace, not a riot. What am I?",
+    "Option 1": "an ambulance siren",
+    "Option 2": "a police siren",
+    "Option 3": "a fire alarm",
+    "Answer": "a police siren"
+  },
+  {
+    "id": "27",
+    "Title": "Knock of Fate",
+    "Riddle": "With no hands, I bring news that stands. What am I?",
+    "Option 1": "a phone call",
+    "Option 2": "an email",
+    "Option 3": "a warrant",
+    "Answer": "a warrant"
+  },
+  {
+    "id": "28",
+    "Title": "Shadow of Law",
+    "Riddle": "Seen by few, I blend into the view. Who am I?",
+    "Option 1": "an undercover cop",
+    "Option 2": "a spy",
+    "Option 3": "a shadow",
+    "Answer": "an undercover cop"
+  },
+  {
+    "id": "29",
+    "Title": "The Street's Quiet Duelist",
+    "Riddle": "Before the rush, I bring a hush with just a gesture, not a push. Who am I?",
+    "Option 1": "a mime",
+    "Option 2": "a traffic cop",
+    "Option 3": "a librarian",
+    "Answer": "a traffic cop"
+  },
+  {
+    "id": "30",
+    "Title": "Confidant of Truth",
+    "Riddle": "In my room, secrets bloom, and truths loom. What am I?",
+    "Option 1": "a diary",
+    "Option 2": "an interrogation room",
+    "Option 3": "a confessional booth",
+    "Answer": "an interrogation room"
+  }
 ]
 
 }
